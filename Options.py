@@ -2,6 +2,13 @@ import sklearn
 import nltk
 import pandas
 import matplotlib
+import os
+
+# Set the path to the nltk_data directory within your project
+nltk_data_path = os.path.abspath("lib/nltk_data")
+
+# Add the nltk_data directory to the nltk.data.path
+nltk.data.path.insert(0, nltk_data_path)
 
 
 # Prints the Python Library Versions used in this project
