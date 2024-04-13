@@ -1,0 +1,30 @@
+A recommended song list has been created based on the following customer single:
+
+Artist Name:  Escrow Jay
+Song Name:    Sirens of the Ocean
+Genres:       Psychedelic Rock, Acid Rock, Instrumental Rock, Alternative Rock
+
+Build a playlist with these recommended songs for the chosen single:
+
+1. The Doors: Break on Through (To the Other Side)
+2. Jefferson Airplane: Somebody to Love
+3. Jimi Hendrix: All Along the Watchtower
+4. Big Brother & The Holding Company, Janis Joplin: Piece of My Heart
+5. Janis Joplin: Me and Bobby McGee
+6. Kenny Rogers & The First Edition: Something's Burning
+7. Pink Floyd: Wish You Were Here
+8. Vanilla Fudge: You Keep Me Hangin' On
+9. Steppenwolf: Born To Be Wild - Single Version
+10. The Turtles: Happy Together
+11. Ween: Push Th' Little Daisies
+12. Franz Ferdinand: Take Me Out
+13. Buffalo Springfield: For What It's Worth
+14. The Lovin' Spoonful: Summer in the City - Remastered
+15. The Killers: Smile Like You Mean It
+16. The Kinks: All Day and All of the Night
+17. The Animals: House of the Rising Sun
+18. Blind Melon: No Rain
+19. Tommy James & The Shondells: Crimson & Clover
+20. MGMT: Electric Feel
+
+Thanks for using Playlist Generator!
